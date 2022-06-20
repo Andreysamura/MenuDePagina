@@ -1,0 +1,29 @@
+h1{
+    font-size: 25px;
+    font-family:'Gill Sans';
+    color: #117A65;
+}
+img{
+    float: right;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #b4ea20;
+}  
+li{
+    float: left;
+    display: inline;
+    border-right: 1px solid #000;
+} 
+li:last-child{
+    border-right: none;
+}
+li a{
+    display: block;
+    padding: 14px 16px;
+    text-align: center;
+    text-decoration: none;
+}

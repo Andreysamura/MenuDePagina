@@ -1,3 +1,7 @@
+#zapatologin{
+  float: left;
+  width: 30%;
+}
 *, ::after, ::before {
   box-sizing: border-box;
 }
